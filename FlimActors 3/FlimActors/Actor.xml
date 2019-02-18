@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Actors>
+<bollywood>
+<name>Ranveer Singh</name>
+<name>Shahid Kapoor</name>
+<name>Salman Khan</name>
+<name>Ajay Devgan</name>
+</bollywood>
+<tollywood>
+<name>Surya</name>
+<name>Pavan Kalyan</name>
+<name>Prabhas</name>
+<name>Vijay Devarakonda</name>
+</tollywood>
+<hollywood>
+<name>Tom Cruise</name>
+<name>Bradd Pitt</name>
+<name>Tom Hanks</name>
+<name>Will Smith</name>
+</hollywood>
+</Actors>
